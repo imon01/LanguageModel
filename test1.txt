@@ -1,0 +1,18 @@
+<s>
+I 
+went
+to 
+the
+store
+</s>
+
+<s> cat is
+
+a red
+
+	furball </s>
+
+<s> cat is black </s>
+<s> cat is blue </s>
+<s> cat is hunary </s>
+<s> cat not do </s>
