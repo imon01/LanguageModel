@@ -1,0 +1,3 @@
+<s> hello? How are you? Hi! </s>
+<s> Hey I have a cat! </s>
+<s> I am happy now. </s>
